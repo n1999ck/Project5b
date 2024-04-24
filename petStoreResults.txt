@@ -1,0 +1,164 @@
+/usr/lib/jvm/java-1.11.0-openjdk-amd64/bin/java -javaagent:/snap/intellij-idea-ultimate/490/lib/idea_rt.jar=41735:/snap/intellij-idea-ultimate/490/bin -Dfile.encoding=UTF-8 -classpath /media/nick/1CFC-B102/Scala (copy)/PetShop/target/scala-2.13/classes:/home/nick/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.13/scala-library-2.13.13.jar Petshop
+=================================
+Day 1:
+=================================
+
+The time is 0800 on day 1
+Bob arrives at the store
+Bob opens the store
+Cookie the cat is meowing
+PJ the cat is meowing
+Jack the cat is meowing
+Rex the dog is barking
+Buddy the dog is barking
+Max the dog is barking
+
+The time is 0900 on day 1
+Clem arrives at the store
+Clem feeds the animals
+Cookie the cat is eating cat food
+PJ the cat is eating cat food
+Jack the cat is eating cat food
+Rex the dog is eating dog food
+Buddy the dog is eating dog food
+Max the dog is eating dog food
+
+The time is 1100 on day 1
+Clem plays with the animals
+Cookie the cat is playing with a ball of yarn
+PJ the cat is playing with a ball of yarn
+Jack the cat is playing with a ball of yarn
+Rex the dog is playing with a squeaky toy
+Buddy the dog is playing with a squeaky toy
+Max the dog is playing with a squeaky toy
+
+The time is 1200 on day 1
+Lunch time!
+Bob goes to lunch
+
+The time is 1300 on day 1
+Clem goes to lunch
+
+The time is 1600 on day 1
+
+The time is 1700 on day 1
+Clem leaves the store
+
+The time is 1800 on day 1
+Bob closes the store
+Cookie the cat is sleeping
+PJ the cat is sleeping
+Jack the cat is sleeping
+Rex the dog is sleeping
+Buddy the dog is sleeping
+Max the dog is sleeping
+=================================
+Day 2:
+=================================
+
+The time is 0800 on day 2
+Bob arrives at the store
+Bob opens the store
+Cookie the cat is meowing
+PJ the cat is meowing
+Jack the cat is meowing
+Rex the dog is barking
+Buddy the dog is barking
+Max the dog is barking
+
+The time is 0900 on day 2
+Clem arrives at the store
+Clem feeds the animals
+Cookie the cat is eating cat food
+PJ the cat is eating cat food
+Jack the cat is eating cat food
+Rex the dog is eating dog food
+Buddy the dog is eating dog food
+Max the dog is eating dog food
+
+The time is 1100 on day 2
+Clem plays with the animals
+Cookie the cat is playing with a ball of yarn
+PJ the cat is playing with a ball of yarn
+Jack the cat is playing with a ball of yarn
+Rex the dog is playing with a squeaky toy
+Buddy the dog is playing with a squeaky toy
+Max the dog is playing with a squeaky toy
+
+The time is 1200 on day 2
+Lunch time!
+Bob goes to lunch
+
+The time is 1300 on day 2
+Clem goes to lunch
+
+The time is 1600 on day 2
+Clem sells PJ the cat
+New animal Freak the cat has been added to the store
+
+The time is 1700 on day 2
+Clem leaves the store
+
+The time is 1800 on day 2
+Bob closes the store
+Cookie the cat is sleeping
+Jack the cat is sleeping
+Rex the dog is sleeping
+Buddy the dog is sleeping
+Max the dog is sleeping
+Freak the cat is sleeping
+=================================
+Day 3:
+=================================
+
+The time is 0800 on day 3
+Bob arrives at the store
+Bob opens the store
+Cookie the cat is meowing
+Jack the cat is meowing
+Rex the dog is barking
+Buddy the dog is barking
+Max the dog is barking
+Freak the cat is meowing
+
+The time is 0900 on day 3
+Clem arrives at the store
+Clem feeds the animals
+Cookie the cat is eating cat food
+Jack the cat is eating cat food
+Rex the dog is eating dog food
+Buddy the dog is eating dog food
+Max the dog is eating dog food
+Freak the cat is eating cat food
+
+The time is 1100 on day 3
+Clem plays with the animals
+Cookie the cat is playing with a ball of yarn
+Jack the cat is playing with a ball of yarn
+Rex the dog is playing with a squeaky toy
+Buddy the dog is playing with a squeaky toy
+Max the dog is playing with a squeaky toy
+Freak the cat is playing with a ball of yarn
+
+The time is 1200 on day 3
+Lunch time!
+Bob goes to lunch
+
+The time is 1300 on day 3
+Clem goes to lunch
+
+The time is 1600 on day 3
+
+The time is 1700 on day 3
+Clem leaves the store
+
+The time is 1800 on day 3
+Bob closes the store
+Cookie the cat is sleeping
+Jack the cat is sleeping
+Rex the dog is sleeping
+Buddy the dog is sleeping
+Max the dog is sleeping
+Freak the cat is sleeping
+
+Process finished with exit code 0
